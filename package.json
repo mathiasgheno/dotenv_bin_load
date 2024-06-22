@@ -1,0 +1,12 @@
+{
+  "name": "dotenv_bin_load",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "bin": {
+    "dotenv_bin_load": "bin/index.cjs"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
